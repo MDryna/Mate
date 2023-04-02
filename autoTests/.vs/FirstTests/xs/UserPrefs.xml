@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{71821CF0-95C8-45E5-B889-D0101EA37948}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="autoTests/PageObjects/AuthorizationPageObject.cs">
+    <Files>
+      <File FileName="autoTests/UnitTests.cs" Line="50" Column="1" IsPinned="True" />
+      <File FileName="autoTests/PageObjects/MainMenuPageObject.cs" />
+      <File FileName="autoTests/PageObjects/AuthorizationPageObject.cs" Line="26" Column="10" />
+      <File FileName="autoTests/PageObjects/CoursePageObject.cs" />
+      <File FileName="autoTests/RandomData.cs" />
+      <File FileName="autoTests/BaseTest.cs" />
+      <File FileName="autoTests/TestSettings.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstTests" expanded="True">
+            <Node name="autoTests" expanded="True">
+              <Node name="PageObjects" expanded="True">
+                <Node name="AuthorizationPageObject.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Option id="ShowTestTime" value="True" />
+          <Option id="ShowTestCounters" value="True" />
+          <Node name="FirstTests" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.autoTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
